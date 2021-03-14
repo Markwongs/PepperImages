@@ -66,7 +66,7 @@ error: failed to push some refs to 'origin'
 /bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
 error: src refspec main does not match any.
 error: failed to push some refs to 'origin'
-/bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
+/bin/bash: warning: setlocale: LC_ALL: c**annot change locale (zh_CN)
 To github.com:Markwongs/PepperImages.git
    88b6999..9b6d5a3  main -> main
 /bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
@@ -75,4 +75,7 @@ To github.com:Markwongs/PepperImages.git
 /bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
 To github.com:Markwongs/PepperImages.git
    156eec7..a8b7f47  main -> main
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
+To github.com:Markwongs/PepperImages.git
+   a8b7f47..e1bb40e  main -> main
 /bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
