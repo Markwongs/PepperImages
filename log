@@ -48,3 +48,9 @@ error: failed to push some refs to 'origin'
 /bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
 error: src refspec main does not match any.
 error: failed to push some refs to 'origin'
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
+error: src refspec main does not match any.
+error: failed to push some refs to 'origin'
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
+error: src refspec main does not match any.
+error: failed to push some refs to 'origin'
