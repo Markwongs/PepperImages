@@ -70,3 +70,6 @@ error: failed to push some refs to 'origin'
 To github.com:Markwongs/PepperImages.git
    88b6999..9b6d5a3  main -> main
 /bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
+To github.com:Markwongs/PepperImages.git
+   9b6d5a3..156eec7  main -> main
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (zh_CN)
